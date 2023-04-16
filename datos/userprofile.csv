@@ -1,0 +1,139 @@
+smoker;drink_level;dress_preference;ambience;hijos;activity;budget
+false;abstemious;informal;family;independent;student;medium
+false;abstemious;informal;family;independent;student;low
+false;social drinker;formal;family;independent;student;low
+false;abstemious;informal;family;independent;professional;medium
+false;abstemious;no preference;family;independent;student;medium
+true;social drinker;no preference;friends;independent;student;medium
+false;casual drinker;informal;solitary;independent;student;low
+false;social drinker;formal;solitary;independent;student;low
+false;abstemious;formal;family;kids;student;medium
+false;social drinker;no preference;friends;kids;student;medium
+false;abstemious;no preference;family;independent;student;medium
+false;casual drinker;formal;family;independent;student;medium
+false;abstemious;no preference;friends;independent;professional;medium
+false;abstemious;?;friends;independent;student;medium
+true;social drinker;informal;family;independent;student;medium
+false;casual drinker;informal;friends;independent;student;medium
+false;casual drinker;formal;family;?;professional;medium
+true;casual drinker;formal;friends;independent;student;low
+false;casual drinker;no preference;family;independent;student;medium
+false;abstemious;no preference;friends;independent;professional;medium
+false;social drinker;no preference;family;dependent;student;medium
+false;casual drinker;formal;family;independent;student;medium
+false;casual drinker;informal;friends;independent;student;low
+?;abstemious;?;?;?;?;?
+false;social drinker;no preference;family;?;student;medium
+false;abstemious;formal;family;independent;student;medium
+true;social drinker;no preference;?;independent;student;low
+false;abstemious;no preference;family;independent;student;medium
+true;casual drinker;formal;family;independent;student;low
+false;casual drinker;formal;family;independent;student;medium
+false;abstemious;informal;solitary;kids;unemployed;medium
+false;abstemious;formal;family;independent;student;medium
+false;social drinker;no preference;family;?;student;low
+false;casual drinker;informal;family;independent;student;medium
+true;casual drinker;no preference;friends;independent;student;medium
+false;social drinker;informal;family;independent;student;medium
+false;social drinker;no preference;family;independent;student;low
+true;social drinker;no preference;family;independent;student;low
+false;social drinker;no preference;friends;independent;student;medium
+false;abstemious;no preference;friends;independent;student;medium
+false;abstemious;no preference;friends;independent;professional;medium
+false;abstemious;no preference;family;independent;student;high
+false;abstemious;no preference;solitary;independent;student;medium
+true;social drinker;informal;family;kids;professional;medium
+false;casual drinker;elegant;friends;independent;student;high
+false;social drinker;no preference;friends;independent;student;medium
+false;abstemious;no preference;family;independent;student;medium
+true;casual drinker;no preference;?;independent;student;medium
+false;casual drinker;informal;solitary;?;student;?
+false;social drinker;no preference;family;independent;student;medium
+false;casual drinker;no preference;family;independent;professional;medium
+true;social drinker;no preference;family;independent;student;low
+false;casual drinker;informal;family;independent;student;low
+false;social drinker;formal;family;independent;student;medium
+false;abstemious;no preference;family;dependent;professional;medium
+false;social drinker;informal;family;independent;student;medium
+true;casual drinker;formal;friends;independent;student;medium
+false;abstemious;formal;family;independent;student;low
+false;abstemious;formal;friends;independent;student;medium
+false;casual drinker;formal;family;independent;student;medium
+false;social drinker;no preference;friends;independent;professional;medium
+false;casual drinker;informal;friends;independent;student;medium
+false;casual drinker;formal;family;independent;student;medium
+false;casual drinker;formal;solitary;independent;student;medium
+false;abstemious;formal;friends;independent;student;medium
+false;abstemious;informal;solitary;?;student;low
+false;abstemious;no preference;family;independent;student;medium
+false;casual drinker;informal;friends;independent;student;low
+false;social drinker;no preference;family;independent;professional;medium
+false;casual drinker;informal;friends;independent;student;low
+false;abstemious;formal;friends;independent;student;high
+false;casual drinker;no preference;family;independent;student;medium
+false;abstemious;informal;solitary;kids;unemployed;medium
+true;casual drinker;no preference;family;kids;professional;medium
+false;casual drinker;informal;family;independent;student;medium
+false;social drinker;elegant;family;kids;student;medium
+false;social drinker;elegant;family;kids;student;medium
+true;social drinker;informal;solitary;independent;professional;medium
+false;abstemious;formal;family;independent;?;medium
+true;social drinker;formal;friends;independent;student;low
+false;casual drinker;informal;family;independent;student;low
+true;abstemious;informal;friends;?;student;medium
+false;abstemious;?;?;?;?;?
+true;casual drinker;formal;family;independent;student;medium
+false;abstemious;no preference;solitary;independent;student;?
+false;social drinker;no preference;family;independent;student;medium
+false;abstemious;no preference;solitary;independent;student;medium
+false;social drinker;informal;family;independent;student;medium
+true;casual drinker;informal;family;independent;student;low
+false;social drinker;no preference;friends;independent;student;medium
+false;casual drinker;no preference;family;independent;student;low
+false;abstemious;formal;solitary;dependent;?;medium
+true;casual drinker;no preference;family;independent;student;medium
+false;abstemious;informal;friends;independent;student;medium
+false;abstemious;formal;family;independent;student;medium
+false;abstemious;formal;family;independent;student;medium
+false;abstemious;formal;family;independent;student;medium
+false;social drinker;formal;family;independent;student;medium
+true;social drinker;informal;family;independent;student;high
+false;casual drinker;formal;friends;independent;student;medium
+false;casual drinker;no preference;friends;independent;student;low
+false;social drinker;no preference;friends;independent;student;low
+false;abstemious;formal;friends;independent;professional;medium
+true;social drinker;no preference;family;independent;student;medium
+false;social drinker;formal;family;independent;student;medium
+false;casual drinker;informal;friends;independent;professional;medium
+false;abstemious;no preference;friends;independent;?;high
+false;abstemious;informal;solitary;independent;student;medium
+false;abstemious;formal;solitary;independent;student;low
+false;abstemious;no preference;family;independent;student;medium
+true;casual drinker;formal;friends;independent;student;medium
+true;casual drinker;formal;friends;independent;student;medium
+false;casual drinker;formal;family;independent;student;medium
+false;abstemious;no preference;family;independent;student;medium
+true;social drinker;elegant;friends;independent;student;low
+false;social drinker;formal;family;kids;student;medium
+false;abstemious;no preference;friends;independent;professional;medium
+true;casual drinker;informal;friends;independent;student;medium
+false;abstemious;formal;family;independent;student;medium
+false;abstemious;informal;friends;independent;student;low
+false;social drinker;no preference;family;independent;working-class;medium
+?;abstemious;?;?;?;?;?
+false;abstemious;informal;family;independent;student;medium
+false;casual drinker;informal;friends;independent;student;low
+false;casual drinker;formal;friends;independent;student;low
+false;casual drinker;formal;friends;independent;student;low
+false;abstemious;no preference;solitary;independent;student;low
+false;casual drinker;no preference;friends;independent;student;low
+false;casual drinker;no preference;friends;independent;student;low
+?;abstemious;?;?;?;?;?
+true;social drinker;no preference;friends;kids;student;medium
+false;casual drinker;informal;solitary;?;student;?
+false;abstemious;no preference;family;independent;student;medium
+false;casual drinker;no preference;family;independent;student;medium
+false;casual drinker;informal;family;kids;student;low
+true;social drinker;no preference;friends;independent;student;low
+false;social drinker;formal;family;independent;student;low
+false;social drinker;formal;friends;independent;student;medium
